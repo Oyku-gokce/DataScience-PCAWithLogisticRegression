@@ -20,7 +20,7 @@ D. Use predict function and then get the confusion matrıx.<br>
 E. Discuss about the performance measures.<br>
 F. Compare results 2.E and 3.E<br>
 
-## The Project Summary
+## The Project Result
 ### 2.E:<br>
 Accuracy: 0.961<br>
 Precision: 0.947<br>
